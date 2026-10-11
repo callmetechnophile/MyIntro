@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="500" viewBox="0 0 740 500">
+<rect width="740" height="500" rx="12" fill="#0b1016" stroke="#243442"/>
+<text x="22" y="30" font-family="monospace" font-size="13" fill="#66d9ef">[ avatar.decode --ascii ]</text>
+<text x="22" y="51" font-family="monospace" font-size="10" fill="#8297a8">source: github.com/callmetechnophile</text>
+<g font-family="monospace" font-size="11" fill="#dce7ef">
+<text x="22" y="83" opacity="0">             .,:;irsXA253hMHGS#9B&@<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="98" opacity="0">       .,:;irsXA253hMHGS#9B&@##<animate attributeName="opacity" from="0" to="1" begin="0.05s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="113" opacity="0">    .,:;irsXA253hMHGS#9B&@####<animate attributeName="opacity" from="0" to="1" begin="0.10s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="128" opacity="0">  .,:;irsXA253hMHGS#9B&@######<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="143" opacity="0">             .,:;irsXA253hMHGS#9B&@<animate attributeName="opacity" from="0" to="1" begin="0.20s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="158" opacity="0">       .,:;irsXA253hMHGS#9B&@##<animate attributeName="opacity" from="0" to="1" begin="0.25s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="173" opacity="0">    .,:;irsXA253hMHGS#9B&@####<animate attributeName="opacity" from="0" to="1" begin="0.30s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="188" opacity="0">  .,:;irsXA253hMHGS#9B&@######<animate attributeName="opacity" from="0" to="1" begin="0.35s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="203" opacity="0">             .,:;irsXA253hMHGS#9B&@<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="218" opacity="0">       .,:;irsXA253hMHGS#9B&@##<animate attributeName="opacity" from="0" to="1" begin="0.45s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="233" opacity="0">    .,:;irsXA253hMHGS#9B&@####<animate attributeName="opacity" from="0" to="1" begin="0.50s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="248" opacity="0">  .,:;irsXA253hMHGS#9B&@######<animate attributeName="opacity" from="0" to="1" begin="0.55s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="263" opacity="0">             .,:;irsXA253hMHGS#9B&@<animate attributeName="opacity" from="0" to="1" begin="0.60s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="278" opacity="0">       .,:;irsXA253hMHGS#9B&@##<animate attributeName="opacity" from="0" to="1" begin="0.65s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="293" opacity="0">    .,:;irsXA253hMHGS#9B&@####<animate attributeName="opacity" from="0" to="1" begin="0.70s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="308" opacity="0">  .,:;irsXA253hMHGS#9B&@######<animate attributeName="opacity" from="0" to="1" begin="0.75s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="323" opacity="0">             .,:;irsXA253hMHGS#9B&@<animate attributeName="opacity" from="0" to="1" begin="0.80s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="338" opacity="0">       .,:;irsXA253hMHGS#9B&@##<animate attributeName="opacity" from="0" to="1" begin="0.85s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="353" opacity="0">    .,:;irsXA253hMHGS#9B&@####<animate attributeName="opacity" from="0" to="1" begin="0.90s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="368" opacity="0">  .,:;irsXA253hMHGS#9B&@######<animate attributeName="opacity" from="0" to="1" begin="0.95s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="383" opacity="0">             .,:;irsXA253hMHGS#9B&@<animate attributeName="opacity" from="0" to="1" begin="1.00s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="398" opacity="0">       .,:;irsXA253hMHGS#9B&@##<animate attributeName="opacity" from="0" to="1" begin="1.05s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="413" opacity="0">    .,:;irsXA253hMHGS#9B&@####<animate attributeName="opacity" from="0" to="1" begin="1.10s" dur=".25s" fill="freeze"/></text>
+<text x="22" y="428" opacity="0">  .,:;irsXA253hMHGS#9B&@######<animate attributeName="opacity" from="0" to="1" begin="1.15s" dur=".25s" fill="freeze"/></text>
+</g>
+<text x="22" y="475" font-family="monospace" font-size="10" fill="#8297a8">render: monochrome / row-by-row · run generator to render actual avatar</text>
+</svg>
