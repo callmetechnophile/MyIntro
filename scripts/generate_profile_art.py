@@ -65,10 +65,10 @@ def fetch_contributions():
     days=[]
     # GitHub puts the real count in the tooltip, while data-level supplies the real intensity.
     tooltips={}
-    for tip in soup.find_all(["tool-tip", "div"], id=True):
+    for tip in soup.find_all("tool-tip", attrs={"for": True}):
         text=tip.get_text(" ", strip=True)
         match=re.search(r"(\d+) contributions?", text, re.I)
-        if match: tooltips[tip.get("id")]=int(match.group(1))
+        if match: tooltips[tip.get("for")]=int(match.group(1))
     for node in soup.select("[data-date]"):
         try: day=date.fromisoformat(node.get("data-date"))
         except (ValueError,TypeError): continue
