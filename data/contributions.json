@@ -1,44 +1,9 @@
 {
   "username": "callmetechnophile",
-  "updated_at": "2026-11-21T14:40:53Z",
-  "total": 2571,
-  "current_streak": 371,
+  "updated_at": "2026-11-22T14:37:04Z",
+  "total": 2540,
+  "current_streak": 365,
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 18,
-      "level": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 12,
-      "level": 0
-    },
-    {
-      "date": "2025-11-18",
-      "count": 1,
-      "level": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 16,
-      "level": 0
-    },
-    {
-      "date": "2025-11-20",
-      "count": 1,
-      "level": 0
-    },
-    {
-      "date": "2025-11-21",
-      "count": 1,
-      "level": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 1,
-      "level": 0
-    },
     {
       "date": "2025-11-23",
       "count": 18,
@@ -1856,8 +1821,13 @@
     },
     {
       "date": "2026-11-21",
-      "count": 11,
+      "count": 12,
       "level": 1
+    },
+    {
+      "date": "2026-11-22",
+      "count": 18,
+      "level": 2
     }
   ]
 }
